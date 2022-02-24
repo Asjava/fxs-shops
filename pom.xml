@@ -15,8 +15,10 @@
         <module>yami-shop-bean</module>
         <module>yami-shop-service</module>
         <module>yami-shop-security</module>
-<!--        <module>yami-shop-quartz</module>-->
+        <module>yami-shop-quartz</module>
         <module>yami-shop-mp</module>
+        <module>yami-shop-mp</module>
+        <module>spring-boot-starter-pay-paypal</module>
     </modules>
 
     <properties>

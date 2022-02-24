@@ -45,10 +45,10 @@ public class SwaggerConfiguration {
 	 @Bean
 	 public ApiInfo apiInfo() {
 	     return new ApiInfoBuilder()
-	     .title("mall4j管理系统接口文档")
-	     .description("mall4j商城接口文档Swagger版")
-	     .termsOfServiceUrl("https://www.mall4j.com/")
-	     .contact(new Contact("广州市蓝海创新科技有限公司","https://www.mall4j.com/", ""))
+	     .title("商城后台管理系统接口文档")
+	     .description("商城接口文档Swagger版")
+	     .termsOfServiceUrl("http://47.108.184.31/crm")
+	     .contact(new Contact("傅先生的个人电商网站","http://47.108.184.31/crm", ""))
 	     .version("1.0")
 	     .build();
 	 }
